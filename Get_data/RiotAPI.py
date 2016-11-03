@@ -30,6 +30,11 @@ class RiotAPI(object):
 		# names using , seperate, limit is 40 at once.
 		return self._request(api_url)
 
+	def get_champions(self):
+		api_url = Consts.URL['all_champions'].format(
+			version=Consts.VERSIONS['champion'])
+		return self._request(api_url)
+
 	def get_featured_games(self):
 		args = {'api_key': self.api_key}
 		response = requests.get(Consts.URL['featured_games'], params=args)
