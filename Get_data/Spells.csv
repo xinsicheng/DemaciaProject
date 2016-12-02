@@ -1,0 +1,533 @@
+cid,name,description
+1,Disintegrate,"Annie hurls a Mana infused fireball, dealing damage and refunding the Mana cost if it destroys the target."
+1,Incinerate,"Annie casts a blazing cone of fire, dealing damage to all enemies in the area."
+1,Molten Shield,Grants Annie and Tibbers increased percentage Damage Resist and damages enemies who attack with basic attacks.
+1,Summon: Tibbers,"Annie wills her bear Tibbers to life, dealing damage to units in the area. Tibbers can attack and also burns enemies that stand near him."
+2,Undertow,"Olaf throws an axe into the ground at a target location, dealing damage to enemies it passes through and slowing their Movement Speed. If Olaf picks up the axe, the ability's cooldown is reduced by 4.5 seconds."
+2,Vicious Strikes,"Olaf's Attack Speed is increased, he gains Life Steal and has increased healing from all sources based on how much Health he is missing."
+2,Reckless Swing,"Olaf attacks with such force that it deals true damage to his target and himself, refunding the Health cost if he destroys the target."
+2,Ragnarok,Olaf temporarily becomes immune to disables.
+3,Resolute Smite,"Galio fires a concussive blast from his eyes, slowing and dealing damage to enemies caught near the impact point."
+3,Bulwark,"Galio shields an ally Champion, increasing their Armor and Magic Resist, and restoring Galio's Health each time that Champion suffers damage."
+3,Righteous Gust,"Galio claps his wings, unleashing a gust of concussive wind that damages enemies and leaves a directional draft in its wake that increases ally Movement Speed."
+3,Idol of Durand,"Galio assumes the form of a statue, taunting nearby enemies and storing concussive energy as they attack him. Galio then bursts from his statue shell, releasing the stored energy to damage surrounding foes."
+4,Wild Cards,"Twisted Fate throws three cards, dealing damage to each enemy unit they pass through."
+4,Pick A Card,"Twisted Fate chooses a magic card from his deck, and uses that for his next attack, causing bonus effects."
+4,Stacked Deck,"Every 4 attacks, Twisted Fate deals bonus damage. In addition, his Attack Speed is increased."
+4,Destiny,"Twisted Fate predicts the fortunes of his foes, revealing all enemy champions and enabling the use of Gate, which teleports Twisted Fate to any target location in 1.5 seconds."
+5,Three Talon Strike,"Xin Zhao's next 3 standard attacks deal increased damage that reduce his other ability cooldowns, with the third attack knocking an opponent into the air."
+5,Battle Cry,"Xin Zhao passively will critically strike every third attack, healing on every third hit. This ability can be activated to attack faster."
+5,Audacious Charge,"Xin Zhao charges an enemy, dealing damage and slowing all enemies in the area."
+5,Crescent Sweep,Xin Zhao deals damage to nearby enemies based on their current Health and knocks non-challenged targets back. Xin Zhao gains bonus Armor and Magic Resist based on number of champions hit.
+6,Acid Hunter,"Urgot fires an Acid Hunter missile that collides with the first enemy it hits, slowing the target if he has his Terror Capacitor up. Acid Hunter missile-locks on enemies affected by Noxian Corrosive Charge."
+6,Terror Capacitor,"Urgot charges up his capacitor to gain a shield. While the shield is active, Urgot gains slowing attacks."
+6,Noxian Corrosive Charge,Urgot launches a corrosive charge that damages enemies in an area and reduces their Armor.
+6,Hyper-Kinetic Position Reverser,"Urgot charges up his Hyper-Kinetic Position Reverser, swapping positions with the target and terrifying nearby enemies for 1.5 seconds. His target is suppressed for the duration of the channel. He gains Damage Reduction during and after the swap."
+7,Shatter Orb,"LeBlanc projects an orb towards her target, dealing magic damage. When Shatter Orb is empowered by Sigil of Malice, the spell bounces to the nearest ready Sigil of Malice (bounces deal reduced damage to minions)."
+7,Distortion,"LeBlanc rapidly dashes to a target location, dealing magic damage to nearby units. In the following 4 seconds, she can activate Distortion again to return to her starting location."
+7,Ethereal Chains,"LeBlanc flings illusionary chains towards a target location. If it hits an enemy unit, it will deal initial magic damage and shackle them. If the target remains shackled for 1.5 seconds, the target takes additional magic damage and is unable to move."
+7,Mimic,"LeBlanc creates a clone and casts a mimicked version of one of her basic spells. The clone casts a fake copy of that spell. LeBlanc can instead send the clone far away, where it casts a fake copy of her most recently cast spell."
+8,Transfusion,"Vladimir steals life from the target enemy. When Vladimir's resource is full, Transfusion will benefit from massively increased damage and healing for a brief time."
+8,Sanguine Pool,"Vladimir sinks into a pool of blood, becoming untargetable for 2 seconds. Additionally, enemies on the pool are slowed and Vladimir siphons life from them."
+8,Tides of Blood,"Vladimir pays his own health to charge up a reservoir of blood which, when released, deals damage in the area around him but can be blocked by enemy units."
+8,Hemoplague,"Vladimir infects an area with a virulent plague. Affected enemies take increased damage for the duration. After a few seconds, Hemoplague deals magic damage to infected enemies and heals Vladimir for each enemy Champion hit."
+9,Terrify,"Strikes a target unit with fear, causing it to flee in terror for a duration."
+9,Drain,"Fiddlesticks saps the life force of an enemy, dealing damage to a target over time and healing himself."
+9,Dark Wind,"A wisp of wind strikes an enemy unit and then bounces to nearby enemy units, dealing damage and silencing the victims."
+9,Crowstorm,"A murder of crows flock wildly around Fiddlesticks, dealing damage per second to all enemy units in the area."
+10,Reckoning,"Blasts an enemy unit with angelic force, dealing damage, slowing Movement Speed, and applying Holy Fervor."
+10,Divine Blessing,"Blesses a target friendly champion, granting them increased Movement Speed and healing them."
+10,Righteous Fury,"Passive: Grants Kayle on Hit magic Damage.  Activate: Ignite Kayle's sword with a holy flame, granting Kayle a ranged attack that damages multiple enemies and deals bonus magic damage."
+10,Intervention,"Shields Kayle or an ally for a short time, causing them to be immune to damage."
+11,Alpha Strike,"Master Yi teleports across the battlefield with blinding speed, dealing physical damage to multiple units in his path, while simultaneously becoming untargetable. Alpha Strike can critically strike and deals bonus physical damage to minions and monsters. Basic attacks reduce Alpha Strike's cooldown."
+11,Meditate,"Master Yi rejuvenates his body by focus of mind, restoring Health and taking reduced damage for a short time."
+11,Wuju Style,"Master Yi becomes skilled in the art of Wuju, passively increasing his Attack Damage. Activating Wuju Style grants bonus true damage on basic attacks, but the passive bonus is then lost while on cooldown."
+11,Highlander,"Master Yi moves with unparalleled agility, temporarily increasing his Movement and Attack Speeds as well as making him immune to all slowing effects. While active, Champion kills or assists extend Highlander's duration. Passively reduces cooldown for his other abilities on a kill or assist."
+12,Pulverize,"Alistar smashes the ground, dealing damage to nearby enemies and tossing them into the air."
+12,Headbutt,"Alistar rams a target with his head, dealing damage and knocking the target back."
+12,Trample,"Alistar tramples nearby enemy units, ignoring unit colision and gaining stacks if he damages an enemy champion. At full stacks Alistar's next basic attack against an enemy champion deals additional magic damage and stuns them."
+12,Unbreakable Will,"Alistar lets out a wild roar, removing all crowd control effects on himself, and reducing incoming physical and magical damage for the duration."
+13,Overload,"Passively, Ryze's other damaging spells reset Overload and begin to charge a Rune that can be used to empower Overload.<br><br>On cast, Ryze throws a charge of pure energy in a line, dealing damage to the first enemy struck. If a Rune is fully charged, Ryze also gains a shield and Movement Speed."
+13,Rune Prison,"Ryze traps a target enemy unit in a cage of runes, damaging them and preventing them from moving."
+13,Spell Flux,Ryze releases an orb of pure magical power that damages an enemy and debuffs them. Ryze's spells have additional effects against the debuffed enemy.
+13,Realm Warp,"Ryze creates a portal to a nearby location. After a few seconds, allies standing near the portal are teleported to the target location."
+14,Decimating Smash,"Sion charges a powerful swing in an area in front of himself that will deal damage to enemies when released. If he charges for enough time, enemies hit by the swing will also be knocked up and stunned.</span>"
+14,Soul Furnace,"Sion shields himself and can reactivate after 3 seconds to deal Magic Damage to enemies nearby. When Sion kills enemies, he passively gains maximum Health."
+14,Roar of the Slayer,"Sion fires a short range shockwave that damages and slows and reduces the Armor of the first enemy hit. If the shockwave hits a minion or monster, it will be knocked back, damaging and slowing all enemies that it passes through."
+14,Unstoppable Onslaught,"Sion charges in a direction, ramping up speed over time. He can steer his charge slightly with the mouse cursor location. When he collides with an enemy he deals damage and knocks them up based on the distance he has charged."
+15,Boomerang Blade,"Sivir hurls her crossblade like a boomerang, dealing damage each way."
+15,Ricochet,"Sivir's next few basic attacks will bounce to nearby targets, dealing reduced damage to secondary targets."
+15,Spell Shield,Creates a magical barrier that blocks a single enemy ability cast on Sivir. She receives Mana back if a spell is blocked.
+15,On The Hunt,"Sivir leads her allies in battle, granting them a surge Movement Speed for a period of time. Additionally passively grants Sivir bonus Attack Speed while Ricochet is active."
+16,Starcall,"A star falls from the sky at the target location dealing magic damage and slowing enemies. If an enemy champion is hit by Starcall, Soraka recovers health and gains movement speed when moving away from enemy champions."
+16,Astral Infusion,Soraka sacrifices a portion of her own health to heal another friendly champion.
+16,Equinox,"Creates a zone at a location that silences all enemies inside. When the zone expires, all enemies still inside are rooted."
+16,Wish,"Soraka fills her allies with hope, instantly restoring health to herself and all friendly champions."
+17,Blinding Dart,"Obscures an enemy's vision with a powerful venom, dealing damage to the target unit and blinding it for the duration."
+17,Move Quick,"Teemo scampers around, passively increasing his Movement Speed until he is struck by an enemy champion or turret. Teemo can sprint to gain bonus Movement Speed that isn't stopped by being struck for a short time."
+17,Toxic Shot,"Each of Teemo's attacks will poison the target, dealing damage on impact and each second after for 4 seconds."
+17,Noxious Trap,"Teemo throws an explosive poisonous trap using one of the mushrooms stored in his pack. If an enemy steps on the trap, it will release a poisonous cloud, slowing enemies and damaging them over time. If Teemo throws a mushroom onto another mushroom it will bounce, gaining additional range."
+18,Rapid Fire,"Tristana fires her weapon rapidly, increasing her Attack Speed for a short time."
+18,Rocket Jump,"Tristana fires at the ground to propel her to a distant location, dealing damage and slowing surrounding units for a brief period where she lands."
+18,Explosive Charge,"When Tristana kills a unit, her cannonballs burst into shrapnel, dealing damage to surrounding enemies. Can be activated to place a bomb on a target enemy that explodes after a short duration dealing damage to surrounding units."
+18,Buster Shot,"Tristana loads a massive cannonball into her weapon and fires it at an enemy unit. This deals Magic Damage and knocks the target back. If the target is carrying the Explosive Charge bomb, the bomb detonation radius is doubled."
+19,Hungering Strike,Takes a bite out of an enemy unit and heals Warwick.
+19,Hunters Call,"Warwick lets out a howl, increasing all nearby friendly champions' Attack Speed for a short time."
+19,Blood Scent,"Warwick passively senses weakened enemy champions around him. The scent of blood sends him into a fury, causing him to move at incredible speeds."
+19,Infinite Duress,"Warwick lunges at an enemy champion, suppressing his target and dealing magic damage for a few seconds."
+20,Consume,"Nunu commands the yeti to take a bite out of a target minion or monster, dealing heavy damage to it and healing himself."
+20,Blood Boil,"Nunu invigorates himself and an allied unit by heating their blood, increasing their Movement and Attack Speeds."
+20,Ice Blast,"Nunu launches a ball of ice at an enemy unit, dealing damage and temporarily slowing their Movement and Attack Speeds."
+20,Absolute Zero,"Nunu begins to sap the area of heat, slowing all nearby enemies. When Absolute Zero ends, he deals massive damage to all enemies caught in the area."
+21,Double Up,"Miss Fortune fires a bullet at an enemy, damaging them and a target behind them. Both strikes can also apply Love Tap."
+21,Strut,"Miss Fortune passively gains Movement Speed when not attacked. This ability can be activated to grant bonus Attack Speed for a short duration. While it's on cooldown, Love Taps reduce the remaining cooldown of Strut."
+21,Make It Rain,"Miss Fortune reveals an area with a flurry of bullets, dealing waves of damage to opponents and slowing them."
+21,Bullet Time,"Miss Fortune channels a flurry of bullets into a cone in front of her, dealing large amounts of damage to enemies. Each wave of Bullet Time can critically strike."
+22,Ranger's Focus,"Ashe builds up Focus by attacking. At maximum Focus, Ashe can cast Ranger's Focus to consume all stacks of Focus, temporarily increasing her Attack Speed and transforming her basic attack into a powerful flurry attack for the duration."
+22,Volley,Ashe fires 9 arrows in a cone for increased damage. Also applies Frost Shot.
+22,Hawkshot,Ashe sends her Hawk Spirit on a scouting mission anywhere on the map.
+22,Enchanted Crystal Arrow,"Ashe fires a missile of ice in a straight line. If the arrow collides with an enemy Champion, it deals damage and stuns the Champion, stunning for longer the farther arrow has traveled. In addition, surrounding enemy units take damage and are slowed."
+23,Bloodlust,"Tryndamere thrives on the thrills of combat, increasing his Attack Damage as he is more and more wounded. He can cast Bloodlust to consume his Fury and heal himself."
+23,Mocking Shout,"Tryndamere lets out an insulting cry, decreasing surrounding champions' Attack Damage. Enemies with their backs turned to Tryndamere also have their Movement Speed reduced."
+23,Spinning Slash,"Tryndamere slices toward a target unit, dealing damage to enemies in his path."
+23,Undying Rage,"Tryndamere's lust for battle becomes so strong that he is unable to die, no matter how wounded he becomes."
+24,Leap Strike,"Jax leaps toward a unit. If they are an enemy, he strikes them with his weapon."
+24,Empower,"Jax charges his weapon with energy, causing his next attack to deal additional damage."
+24,Counter Strike,"Jax's combat prowess allows him to dodge all incoming attacks for a short duration and then quickly counterattack, stunning all surrounding enemies."
+24,Grandmaster's Might,"Every third consecutive attack deals additional Magic Damage. Additionally, Jax can activate this ability to strengthen his resolve, increasing his Armor and Magic Resist for a short duration."
+25,Dark Binding,"Morgana releases a sphere of dark magic. Upon contact with an enemy unit, the sphere will deal magic damage and force the unit to the ground for a period of time."
+25,Tormented Soil,"Infects an area with desecrated soil, causing enemy units who stand on the location to take continual damage."
+25,Black Shield,"Places a protective barrier around an allied champion, absorbing magical damage and disables until penetrated or the shield dissipates."
+25,Soul Shackles,"Latches chains of energy onto nearby enemy champions, dealing initial damage to them and slowing their Movement Speed, and then echoing the pain a few seconds later and stunning them if they remain close to Morgana."
+26,Time Bomb,"Tosses a bomb to target area that sticks to units that come near it (prioritizes Champions). It detonates after 3 seconds, dealing area of effect damage. If a Time Bomb is detonated early by another Time Bomb, it also stuns enemies."
+26,Rewind,"Zilean can prepare himself for future confrontations, reducing the cooldowns of his other basic abilities. "
+26,Time Warp,"Zilean bends time around any unit, decreasing an enemy's Movement Speed or increasing an ally's Movement Speed for a short time."
+26,Chronoshift,"Zilean places a protective time rune on an allied champion, teleporting the champion back in time if they take lethal damage."
+27,Poison Trail,"Leaves a trail of poison behind Singed, dealing damage to enemies caught in the path."
+27,Mega Adhesive,"Throws a vial of mega adhesive on the ground, slowing enemies who walk on it."
+27,Fling,"Damages target enemy unit and flings them into the air behind Singed. If the target Singed flings lands in his Mega Adhesive, they are also rooted."
+27,Insanity Potion,"Singed drinks a potent brew of chemicals, granting him increased combat stats."
+28,Hate Spike,"Evelynn fires a line of spikes through an enemy, dealing damage to all enemies in its path."
+28,Dark Frenzy,"Evelynn passively increases her Movement Speed when hitting enemy champions with her spells. Upon activation, Evelynn breaks free from slows affecting her and gains a massive Movement Speed boost for a short duration."
+28,Ravage,"Evelynn slashes her target twice, dealing damage with each hit. She then gains increased Attack Speed for a short duration."
+28,Agony's Embrace,Evelynn summons spikes from the ground to deal damage and slow enemies in the area. She then gains a shield based on how many enemy champions were hit.
+29,Ambush,"Twitch becomes Camouflaged for a short duration and gains Movement Speed. When leaving Camouflage, Twitch gains Attack Speed for a short duration.<br><br>When an enemy champion with Deadly Venom dies, Ambush's cooldown is reset."
+29,Venom Cask,"Twitch hurls a cask of venom that explodes in an area, slowing targets and applying deadly venom to the target."
+29,Contaminate,Twitch wreaks further havoc on poisoned enemies with a blast of his vile diseases.
+29,Spray and Pray,"Twitch unleashes the full power of his crossbow, shooting bolts over a great distance that pierce all enemies caught in their path."
+30,Lay Waste,"Karthus unleashes a delayed blast at a location, dealing damage to nearby enemies."
+30,Wall of Pain,Karthus creates a passable screen of leeching energy. Any enemy units that walk through the screen have their Movement Speed and Magic Resist reduced for a period.
+30,Defile,"Karthus passively steals energy from his victims, gaining Mana on each kill. Alternatively, Karthus can surround himself in the souls of his prey, dealing damage to nearby enemies, but quickly draining his own Mana.  "
+30,Requiem,"After channeling for 3 seconds, Karthus deals damage to all enemy champions."
+31,Rupture,"Ruptures the ground at target location, popping enemy units into the air, dealing damage and slowing them."
+31,Feral Scream,"Cho'Gath unleashes a terrible scream at enemies in a cone, dealing magic damage and Silencing enemies for a few seconds."
+31,Vorpal Spikes,"Cho'Gath's attacks passively release deadly spikes, dealing damage to all enemy units in front of him."
+31,Feast,"Devours an enemy unit, dealing a high amount of true damage. If the target is killed, Cho'Gath grows, gaining maximum Health (maximum 6 stacks). Cho'Gath loses half of his stacks upon death. Half the cooldown and mana cost are refunded if a minion or monster is killed."
+32,Bandage Toss,"Amumu tosses a sticky bandage at a target, stunning and damaging the target while he pulls himself to them."
+32,Despair,"Overcome by anguish, nearby enemies lose a percentage of their maximum Health each second."
+32,Tantrum,"Permanently reduces the physical damage Amumu would take. Amumu can unleash his rage, dealing damage to surrounding enemies. Each time Amumu is hit, the cooldown on Tantrum is reduced by 0.5 seconds."
+32,Curse of the Sad Mummy,"Amumu entangles surrounding enemy units in bandages, damaging them and rendering them unable to attack or move."
+33,Powerball,"Rammus accelerates in a ball towards his enemies, dealing damage and slowing targets affected by the impact."
+33,Defensive Ball Curl,"Rammus goes into a defensive formation, vastly increasing his Armor and Magic Resist, while returning damage to attacks."
+33,Puncturing Taunt,"Rammus taunts an enemy champion or monster into a reckless assault against Rammus' hard shell, reducing Armor temporarily."
+33,Tremors,"Rammus creates waves of destruction pulsing through the ground, causing damage to units and structures near him."
+34,Flash Frost,"Anivia brings her wings together and summons a sphere of ice that flies towards her opponents, chilling and damaging anyone in its path. When the sphere explodes it does moderate damage in a radius, stunning anyone in the area."
+34,Crystallize,Anivia condenses the moisture in the air into an impassable wall of ice to block all movement. The wall only lasts a short duration before it melts.
+34,Frostbite,"With a flap of her wings, Anivia blasts a freezing gust of wind at her target, dealing a low amount of damage. If the target was recently stunned by Flash Frost or damaged by a fully formed Glacial Storm, the damage they take is doubled."
+34,Glacial Storm,Anivia summons a driving rain of ice and hail to damage her enemies and slow their advance.
+35,Deceive,Shaco becomes Invisible and teleports to target location. His next attack deals bonus damage.
+35,Jack In The Box,"Shaco creates a hidden animated Jack-in-the-Box. When triggered, it will fear and attack nearby enemies."
+35,Two-Shiv Poison,"Shaco's Shivs passively poison targets on hit, slowing their movement speed. He can throw his Shivs to deal damage and poison the target. The thrown Shiv deals bonus damage based on the target's missing Health."
+35,Hallucinate,"Shaco creates an illusion of himself near him, which can attack nearby enemies (Deals reduced damage to turrets).  Upon death, it explodes, spawning three mini Jack in the Boxes and dealing damage to nearby enemies. "
+36,Infected Cleaver,"Dr. Mundo hurls his cleaver, dealing damage equal to a portion of his target's current Health and slowing them for a short time. Dr. Mundo delights in the suffering of others, so he is returned half of the Health cost when he successfully lands a cleaver (increased to the full Health cost on killing blows)."
+36,Burning Agony,Dr. Mundo drains his Health to reduce the duration of disables and deal continual damage to nearby enemies.
+36,Masochism,"Masochism deals bonus damage on Dr. Mundo's next basic attack and increases Attack Damage by a flat amount for 5 seconds. In addition, Dr. Mundo also gains an additional amount of Attack Damage for each percentage of Health he is missing."
+36,Sadism,Dr. Mundo sacrifices a portion of his Health for increased Movement Speed and drastically increased Health Regeneration.
+37,Hymn of Valor,"Sona plays the Hymn of Valor, sends out bolts of sound, dealing magic damage to two nearby enemies, prioritizing champions and monsters. Sona gains a temporary aura that grants allies tagged by the zone bonus damage on their next attack against enemies."
+37,Aria of Perseverance,"Sona plays the Aria of Perseverance, sending out protective melodies, healing Sona and a nearby wounded ally. Sona gains a temporary aura that grants allies tagged by the zone a temporary shield."
+37,Song of Celerity,"Sona plays the Song of Celerity, granting nearby allies bonus Movement Speed. Sona gains a temporary aura that grants allied champions tagged by the zone bonus Movement Speed on their next attack."
+37,Crescendo,"Sona plays her ultimate chord, stunning enemy champions and forcing them to dance and dealing magic damage to them. Each rank reduces the base cooldown of Sona's basic abilities."
+38,Null Sphere,"Kassadin fires an orb of void energy at a target, dealing damage and interrupting channels. The excess energy forms around himself, granting a temporary shield that absorbs magic damage."
+38,Nether Blade,Passive: Kassadin's basic attacks deal bonus magic damage. Active: Kassadin's next basic attack deals significant bonus magic damage and restores Mana.
+38,Force Pulse,"Kassadin draws energy from spells cast in his vicinity. Upon charging up, Kassadin can use Force Pulse to damage and slow enemies in a cone in front of him."
+38,Riftwalk,Kassadin teleports to a nearby location dealing damage to nearby enemy units. Multiple Riftwalks in a short period of time cost additional Mana but also deal additional damage.
+39,Bladesurge,"Irelia dashes forward to strike her target. If it kills the target, Bladesurge's cooldown refreshes and refunds a portion of the Mana Cost."
+39,Hiten Style,"Irelia is skilled in the art of Hiten, passively giving her physical attacks Health restoration. Activating Hiten Style doubles her Health restoration and gives her basic attacks true damage."
+39,Equilibrium Strike,"Irelia's attack balances the scales, dealing damage and slowing the target. However, if the target has a higher Health % than Irelia, then the blow stuns the target instead of slowing."
+39,Transcendent Blades,Irelia summons 4 spirit blades that she can fling to deal physical damage and siphon life from enemies they pass through.
+40,Howling Gale,"By creating a localized change in pressure and temperature, Janna is able to create a small storm that grows in size with time. She can activate the spell again to release the storm. On release this storm will fly towards the direction it was cast in, dealing damage and knocking away any enemies in its path."
+40,Zephyr,Janna summons an air elemental that passively increases her Movement Speed and enables her to pass through units. She may also activate this ability to deal damage and slow an enemy's Movement Speed. The passive is lost while this ability is on cooldown.
+40,Eye Of The Storm,Janna conjures a defensive gale that shields an ally champion or turret from incoming damage and increases their Attack Damage.
+40,Monsoon,"Janna surrounds herself in a magical storm, throwing enemies back. After the storm has settled, soothing winds heal nearby allies while the ability is active."
+41,Parrrley,"Shoots target, plundering Gold for each enemy unit killed."
+41,Remove Scurvy,Eats citrus to cure crowd control effects and restore Health.
+41,Powder Keg,"Gangplank uncovers a powder keg at target location. If he attacks it, it explodes, spreading the attack's damage to enemies in the area, slowing them."
+41,Cannon Barrage,"Gangplank signals his ship to bombard an area, slowing and damaging enemies."
+42,Phosphorus Bomb,"Corki fires a flash bomb at a target location, dealing magic damage to enemies in the area. This attack additionally reveals units in the area for a duration."
+42,Valkyrie,"Corki flies a short distance, dropping bombs that create a trail of fire that damages opponents who remain in it."
+42,Gatling Gun,"Corki's gatling gun rapidly fires in a cone in front of him, dealing damage and reducing enemy Armor and Magic Resist."
+42,Missile Barrage,"Corki fires a missile toward his target location that explodes on impact, dealing damage to enemies in an area. Corki stores missiles over time, up to a maximum. Every 3rd missile fired will be a Big One, dealing extra damage."
+43,Inner Flame,"Karma sends forth a ball of spirit energy that explodes and deals damage upon hitting an enemy unit.<br><br>Mantra Bonus: In addition to the explosion, Mantra increases the destructive power of her Inner Flame, creating a cataclysm which deals damage after a short delay."
+43,Focused Resolve,"Karma creates a tether between herself and a targeted enemy, dealing damage over time and revealing them. If the tether is not broken, the enemy will be rooted.<br><br>Mantra Bonus: Karma strengthens the link, healing herself and extending the root duration."
+43,Inspire,"Karma summons a protective shield that absorbs incoming damage and increases the Movement Speed of the protected ally.<br><br>Mantra Bonus: Energy radiates out from her target, strengthening the initial shield and applying Inspire to nearby allied champions."
+43,Mantra,Karma empowers her next ability to do an additional effect. Mantra is available at level 1 and does not require a skill point.
+44,Starlight's Touch,Heals nearby allied champions based on charges stored.<br><br>Bravado-empowered attacks reduce this recharge time more than usual.
+44,Bastion,Passively increase the Armor of Taric and any allied champion with Bastion.<br><br>Actively shields an ally and grants them Bastion for as long as they remain near Taric. Taric's spells also cast off the ally with Bastion.
+44,Dazzle,"Taric readies a beam of starlight that, after a brief delay, deals magic damage and stuns enemies."
+44,Cosmic Radiance,"Pulses cosmic energy onto nearby allied champions after a delay, making them invulnerable for a short duration."
+45,Baleful Strike,Veigar unleashes a bolt of dark energy that deals magic damage to the first two enemies hit. Units killed by this bolt grant Veigar some ability power permanently.
+45,Dark Matter,"Veigar calls a great mass of dark matter to fall from the sky to the target location, dealing magic damage when it lands."
+45,Event Horizon,"After a brief delay Veigar twists the edges of space around the target location for 3 seconds, stunning enemies who pass through the perimeter."
+45,Primordial Burst,"Blasts target enemy champion, dealing a large amount of magic damage, increasing based on the target's missing health."
+48,Chomp,"Trundle bites his opponent, dealing damage, briefly slowing and sapping some of their Attack Damage."
+48,Frozen Domain,"Trundle turns target location into his domain, gaining Attack Speed, Movement Speed, and increased healing from all sources while on it."
+48,Pillar of Ice,"Trundle creates an ice pillar at target location, becoming impassable terrain and slowing all nearby enemy units."
+48,Subjugate,"Trundle immediately steals a percent of his target's Health, Armor and Magic Resistance. Over the next 4 seconds the amount of Health, Armor, and Magic Resistance stolen is doubled."
+50,Decrepify,Swain sends Beatrice to cripple enemies within the target area. Crippled targets are slowed and damaged over time.
+50,Nevermove,"Swain marks a target area. After a short delay, mighty talons grab hold of enemy units, dealing damage and rooting them."
+50,Torment,"Swain afflicts his target, dealing damage to them over time and causing them to take increased damage from Swain. Enemies afflicted by Torment are focused by Beatrice while Decrepify is active."
+50,Ravenous Flock,Swain inspires dread in his enemies by temporarily taking the form of a raven. During this time ravens strike out at up to 5 nearby enemies. Each raven deals damage and heals Swain by a flat amount.
+51,Piltover Peacemaker,Caitlyn revs up her rifle for 1 second to unleash a penetrating shot that deals physical damage (deals less damage to subsequent targets).
+51,Yordle Snap Trap,"Caitlyn sets a trap to find sneaky yordles. When sprung, the trap reveals and immobilizes the enemy champion for 1.5 seconds."
+51,90 Caliber Net,Caitlyn fires a heavy net to slow her target. The recoil knocks Caitlyn back.
+51,Ace in the Hole,"Caitlyn takes time to line up the perfect shot, dealing massive damage to a single target at a huge range. Enemy champions can intercept the bullet for their ally."
+53,Rocket Grab,"Blitzcrank fires his right hand to grab an opponent on its path, dealing damage and dragging it back to him."
+53,Overdrive,Blitzcrank super charges himself to get dramatically increased Movement and Attack Speed. He is temporarily slowed after the effect ends.
+53,Power Fist,Blitzcrank charges up his fist to make his next attack deal double damage and pop his target up in the air.
+53,Static Field,"Passively causes lightning bolts to damage a nearby enemy. Additionally, Blitzcrank can activate this ability to damage nearby enemies and silence them for 0.5 seconds, but doing so removes the passive lightning until Static Field becomes available again."
+54,Seismic Shard,"Using his primal elemental magic, Malphite sends a shard of the earth through the ground at his foe, dealing damage upon impact and stealing Movement Speed for 4 seconds."
+54,Brutal Strikes,Malphite starts to hit with such force that his attacks deal damage to all units in front of him. Passively increases his Armor.
+54,Ground Slam,"Malphite slams the ground, sending out a shockwave that deals magic damage based on his Armor as damage and reduces the Attack Speed of enemies for a short duration."
+54,Unstoppable Force,"Malphite ferociously charges to a location, damaging enemies and knocking them into the air."
+55,Bouncing Blade,"Katarina throws a <span class=""colorFFF673"">Dagger</span> at the target that then bounces to nearby enemies before ricocheting onto the ground."
+55,Preparation,"Katarina gains a burst of movement speed, tossing a <span class=""colorFFF673"">Dagger</span> into the air directly above herself."
+55,Shunpo,"Katarina blinks to the target, striking it if its an enemy, or striking the nearest enemy otherwise."
+55,Death Lotus,"Katarina becomes a flurry of blades, dealing massive magic damage while she channels to the 3 nearest enemy champions."
+56,Duskbringer,"Nocturne throws a shadow blade that deals damage, leaves a Dusk Trail, and causes champions to leave a Dusk Trail. While on the trail, Nocturne can move through units and has increased Movement Speed and Attack Damage."
+56,Shroud of Darkness,"Nocturne empowers his blades, passively gaining Attack Speed. Activating Shroud of Darkness allows Nocturne to fade into the shadows, creating a magical barrier which blocks a single enemy ability and doubles his passive Attack Speed if successful."
+56,Unspeakable Horror,"Nocturne plants a nightmare into his target's mind, dealing damage each second and terrifying the target if they do not get out of range by the end of the duration."
+56,Paranoia,Nocturne reduces the sight radius of all enemy champions and removes their ally vision in the process. He can then launch himself at a nearby enemy champion.
+57,Arcane Smash,"Maokai knocks back nearby enemies with a shockwave, dealing magic damage and slowing them."
+57,Twisted Advance,"Maokai dissolves into a cloud of arcane energies. He regrows near a target enemy, dealing damage and rooting it in place."
+57,Sapling Toss,"Maokai flings a sapling that deals area damage on impact. The sapling then wards the nearby area. When enemies approach, the sapling attacks enemies with an arcane blast."
+57,Vengeful Maelstrom,"Maokai shields his allies by drawing power from hostile spells and attacks, reducing non-tower damage done to allied champions in the area. When Maokai ends the effect, he unleashes the absorbed energy to deal damage to enemies within the vortex."
+58,Cull the Meek,"Renekton swings his blade, dealing moderate physical damage to all targets around him, and heals for a small portion of the damage dealt. If he has more than 50 Fury, his damage and heal are increased."
+58,Ruthless Predator,"Renekton slashes his target twice, dealing moderate physical damage and stuns them for 0.75 seconds. If Renekton has more than 50 Fury, he slashes his target three times, dealing high physical damage and stuns them for 1.5 seconds."
+58,Slice and Dice,"Renekton dashes, dealing damage to units along the way. Empowered, Renekton deals bonus damage and reduces the Armor of units hit."
+58,Dominus,"Renekton transforms into the Tyrant form, gaining bonus Health and dealing damage to enemies around him. While in this form, Renekton gains Fury periodically."
+59,Dragon Strike,"Jarvan IV extends his lance, dealing physical damage and lowering the Armor of enemies in its path. Additionally, this will pull Jarvan to his Demacian Standard, knocking up enemies in his path."
+59,Golden Aegis,Jarvan IV calls upon the ancient kings of Demacia to shield him from harm and slow surrounding enemies.
+59,Demacian Standard,"Jarvan IV carries the pride of Demacia, passively granting him bonus Attack Speed. Activating Demacian Standard allows Jarvan IV to place a Demacian flag that deals magic damage on impact and grants Attack Speed to nearby allied champions."
+59,Cataclysm,Jarvan IV heroically leaps into battle at a target with such force that he terraforms the surrounding area to create an arena around them. Nearby enemies are damaged at the moment of impact.
+60,Neurotoxin / Venomous Bite,Human Form: Deals damage based upon how high the target's Health is.<br><br>Spider Form: Lunges at an enemy and deals damage based upon how low their Health is.
+60,Volatile Spiderling / Skittering Frenzy,Human Form: Releases a venom-gorged Spiderling that explodes when it nears a target.<br><br>Spider Form: Elise and her Spiderlings gain Attack Speed.
+60,Cocoon / Rappel,Human Form: Stuns the first enemy unit hit and reveals them if they are not stealthed.<br><br>Spider Form: Elise and her Spiderlings ascend into the air and then descend upon target enemy.
+60,Spider Form,"Transforms into a menacing spider, reducing her attack range in exchange for movement speed, new abilities, and a Spiderling swarm that will attack her foes."
+61,Command: Attack,"Orianna commands her Ball to fire toward a target location, dealing magic damage to targets along the way (deals less damage to subsequent targets). Her Ball remains at the target location after."
+61,Command: Dissonance,"Orianna commands the Ball to release a pulse of energy, dealing magic damage around it. This leaves a field behind that speeds up allies and slows enemies."
+61,Command: Protect,"Orianna commands her Ball to attach to an allied champion, shielding them and dealing magic damage to any enemies it passes through on the way. Additionally, the Ball grants additional Armor and Magic Resist to the champion it is attached to."
+61,Command: Shockwave,"Orianna commands her Ball to unleash a shockwave, dealing magic damage and launching nearby enemies towards the Ball after a short delay."
+62,Crushing Blow,"Wukong's next attack deals additional physical damage, gains range, and reduces the enemy's Armor for a short duration."
+62,Decoy,"Wukong becomes Invisible for a short duration, leaving behind a decoy that will deal Magic Damage to enemies near it when Wukong's stealth expires."
+62,Nimbus Strike,"Wukong dashes to target enemy and sends out images to attack up to 2 additional enemies near his target, dealing physical damage to each enemy struck."
+62,Cyclone,"Wukong's staff grows outward and he spins it around, dealing damage and knocking up enemies. Wukong gains Movement Speed over the duration of the spell."
+63,Sear,"Brand launches a ball of fire forward that deals magic damage. If the target is ablaze, Sear will stun the target for 1.5 seconds."
+63,Pillar of Flame,"After a short delay, Brand creates a Pillar of Flame at a target area, dealing magic damage to enemy units within the area. Units that are ablaze take an additional 25% damage."
+63,Conflagration,"Brand conjures a powerful blast at his target, dealing magic damage to them. If the target is ablaze, Conflagration spreads to nearby enemies."
+63,Pyroclasm,"Brand unleashes a devastating torrent of fire, dealing magic damage each time it bounces, up to 5 bounces. Bounces prioritize stacking Blaze to max on Champions. If a target is ablaze, Pyroclasm will briefly slow them."
+64,Sonic Wave / Resonating Strike,"Sonic Wave: Lee Sin projects a discordant wave of sound to locate his enemies, dealing physical damage to the first enemy it encounters. If Sonic Wave hits, Lee Sin can cast Resonating Strike for the next 3 seconds.<br>Resonating Strike: Lee Sin dashes to the enemy hit by Sonic Wave, dealing physical damage plus 8% of their missing Health."
+64,Safeguard / Iron Will,"Safeguard: Lee Sin rushes to target ally, shielding himself from damage. If the ally is a champion, they are also shielded. After using Safeguard, Lee Sin can cast Iron Will for the next 3 seconds.<br>Iron Will: Lee Sin's intense training allows him to thrive in battle. For 4 seconds, Lee Sin gains Life Steal and Spell Vamp."
+64,Tempest / Cripple,"Tempest: Lee Sin smashes the ground, sending out a shockwave that deals magic damage and reveals enemy units hit. If Tempest hits an enemy, Lee Sin can cast cripple for the next 3 seconds.<br>Cripple: Lee Sin cripples nearby enemies revealed by Tempest, reducing their Movement Speed for 4 seconds. Movement Speed recovers gradually over the duration."
+64,Dragon's Rage,"Lee Sin performs a powerful roundhouse kick launching his target back, dealing physical damage to the target and any enemies they collide with. Enemies the target collides with are knocked into the air for a short duration. This technique was taught to him by Jesse Perring, although Lee Sin does not kick players off the map."
+67,Tumble,"Vayne tumbles, maneuvering to carefully place her next shot. Her next attack deals bonus damage."
+67,Silver Bolts,"Vayne tips her bolts with a rare metal, toxic to evil things. The third consecutive attack or ability against the same target deals a percentage of the target's maximum Health as bonus true damage. (Max: 200 damage vs. Monsters)"
+67,Condemn,"Vayne draws a heavy crossbow from her back, and fires a huge bolt at her target, knocking them back and dealing damage. If they collide with terrain, they are impaled, dealing bonus damage and stunning them."
+67,Final Hour,"Readying herself for an epic confrontation, Vayne gains increased Attack Damage, Invisibility during Tumble, and triple the bonus Movement Speed from Night Hunter."
+68,Flamespitter,"Rumble torches opponents in front of him, dealing magic damage in a cone for 3 seconds. While in Danger Zone this damage is increased. "
+68,Scrap Shield,"Rumble pulls up a shield, protecting him from damage and granting him a quick burst of speed. While in Danger Zone, the shield strength and speed bonus is increased. "
+68,Electro Harpoon,"Rumble launches a taser, electrocuting his target with magic damage and slowing their Movement Speed. Rumble can carry 2 harpoons at a time. While in Danger Zone the damage and slow percentage is increased.  "
+68,The Equalizer,"Rumble fires off a group of rockets, creating a wall of flames that damages and slows enemies. "
+69,Noxious Blast,"Cassiopeia blasts an area with Poison after a brief delay, granting her increased Movement Speed if she hits an enemy champion."
+69,Miasma,"Cassiopeia releases several clouds of poison, slowing, grounding, and lightly damaging enemies that pass through them. Grounded enemies cannot use Movement abilities."
+69,Twin Fang,"Cassiopeia lets loose an attack that deals increased damage to Poisoned targets and heals her for a percentage of the damage dealt. If the target dies from this attack, Cassiopeia regains Mana."
+69,Petrifying Gaze,"Cassiopeia releases a swirl of magical energy from her eyes, stunning any enemies in front of her that are facing her and slowing any others with their back turned."
+72,Crystal Slash,"Skarner lashes out with his claws, dealing physical damage to all nearby enemies and charging himself with Crystal Energy for several seconds if a unit is struck. If he casts Crystal Slash again while powered by Crystal Energy, he deals bonus magic damage."
+72,Crystalline Exoskeleton,Skarner gains a shield and has increased Movement Speed while the shield persists.
+72,Fracture,Skarner summons a blast of crystalline energy which deals damage to enemies struck and slows them. Basic attacking these enemies within a short window will stun them.
+72,Impale,"Skarner suppresses an enemy champion and deals damage to it. During this time, Skarner can move freely and will drag his helpless victim around with him. When the effect ends, the target will be dealt additional damage."
+74,H-28G Evolution Turret,Heimerdinger lays down a rapid-fire cannon turret equipped with a secondary pass-through beam attack (turrets deal half damage to towers).
+74,Hextech Micro-Rockets,Heimerdinger fires long-range rockets that converge on his cursor. 
+74,CH-2 Electron Storm Grenade,"Heimerdinger lobs a grenade at a location, dealing damage to enemy units, as well as stunning anyone directly hit and slowing surrounding units."
+74,UPGRADE!!!,"Heimerdinger invents an upgrade, causing his next spell to have increased effects. "
+75,Siphoning Strike,"Nasus strikes his foe, dealing damage and increasing the power of his future Siphoning Strikes if he slays his target."
+75,Wither,"Nasus ages an enemy champion, decelerating their Movement and Attack Speeds over time."
+75,Spirit Fire,"Nasus unleashes a spirit flame at a location, dealing damage and reducing the Armor of enemies who stand on it."
+75,Fury of the Sands,"Nasus unleashes a mighty sandstorm that batters nearby enemies. While the storm rages, he gains increased Health, Attack Range, damages nearby enemies and gains bonus Armor and Magic Resistance for the duration."
+76,Javelin Toss / Takedown,"In human form, Nidalee throws a spiked javelin at her target that gains damage as it flies.  As a cougar, her next attack will attempt to fatally wound her target, dealing more damage the less life they have."
+76,Bushwhack / Pounce,"In human form, Nidalee lays a trap for unwary opponents that, when sprung, damages and reveals its target. As a cougar, she jumps in a direction, dealing damage in an area where she lands."
+76,Primal Surge / Swipe,"In human form, Nidalee channels the spirit of the cougar to heal her allies and imbue them with Attack Speed for a short duration. As a cougar, she claws in a direction, dealing damage to enemies in front of her."
+76,Aspect Of The Cougar,"Nidalee transforms into a cougar, gaining new abilities."
+77,Tiger Stance,"Tiger Stance: Activation - Udyr's Attack Speed is increased for a few seconds, and his first basic attack will deal a high amount of damage over 2 seconds. Persistent Effect - Udyr's basic attacks deal extra damage."
+77,Turtle Stance,Turtle Stance: Activation - Udyr gains a temporary shield that absorbs damage. Persistent Effect - Udyr gains Life Steal.
+77,Bear Stance,Bear Stance: Activation - Udyr increases Movement Speed for a short duration. Persistent Effect - Udyr's basic attacks stun his target for 1 second. This effect cannot occur on the same target for several seconds.
+77,Phoenix Stance,"Phoenix Stance: Activation - Udyr unleashes pulsing waves of fire, dealing damage to nearby enemies. Persistent Effect - With the first basic attack and every third attack after, Udyr engulfs enemies in front of him with flames."
+78,Hammer Shock,"Poppy swings her hammer, dealing damage and creating a zone that will slow enemies and explode after a delay."
+78,Steadfast Presence,Poppy passively gains Armor and Magic Resist. This bonus increases when she is low on Health. Poppy can activate Steadfast Presence to stop enemy dashes around her and gain movement speed.
+78,Heroic Charge,"Poppy dashes to the target and pushes it back. If the target is pushed into a wall, it is stunned."
+78,Keeper's Verdict,Poppy channels a hammer strike that knocks enemies very far away.
+79,Barrel Roll,"Gragas rolls his cask to a location, which can be activated to explode or will explode on its own after 4 seconds. Enemies struck by the blast have their Movement Speed slowed."
+79,Drunken Rage,"Gragas guzzles down brew from his cask for 1 second. After finishing, he becomes drunkenly empowered, dealing magic damage to all nearby enemies on his next basic attack and reducing damage received."
+79,Body Slam,"Gragas charges to a location and collides with the first enemy unit he comes across, dealing damage to all nearby enemy units and stunning them."
+79,Explosive Cask,"Gragas hurls his cask to a location, dealing damage and knocking back enemies caught in the blast radius."
+80,Spear Shot,"Pantheon hurls his spear at an opponent, dealing damage."
+80,Aegis of Zeonia,"Pantheon leaps at an enemy and bashes them with his shield, stunning them. After finishing the attack, Pantheon readies himself to block the next attack."
+80,Heartseeker Strike,"Pantheon focuses and unleashes 3 swift strikes to the area in front of him dealing damage to all enemies. Pantheon also becomes more aware of his enemy's vital spots, allowing him to always crit enemies below 15% Health."
+80,Grand Skyfall,"Pantheon composes himself then leaps into the air to a target, striking all enemy units in an area. Enemies closer to the impact point take more damage."
+81,Mystic Shot,Ezreal fires a damaging bolt of energy which reduces all of his cooldowns by 1.5 seconds if it strikes an enemy unit.
+81,Essence Flux,"Ezreal fires a fluctuating wave of energy, dealing magic damage to enemy champions, while increasing the Attack Speed of allied champions."
+81,Arcane Shift,Ezreal teleports to a target nearby location and fires a homing bolt which strikes the nearest enemy unit.
+81,Trueshot Barrage,Ezreal winds up for 1 second to fire a powerful barrage of energy missiles which do massive damage to each unit they pass through (deals 10% less damage to each unit it passes through).
+82,Mace of Spades,Mordekaiser's next three attacks deal escalating bonus damage.
+82,Harvesters of Sorrow,"Coats an ally in magnetic metal, increasing each unit's movement speed toward one another. While near one another, the metal swirls violently dealing damage per second to enemies."
+82,Siphon of Destruction,"Mordekaiser deals damage to enemies in a cone in front of him. For each unit hit, Mordekaiser's shield absorbs energy."
+82,Children of the Grave,"Mordekaiser curses an enemy champion or the Dragon, stealing a percent of their life initially and each second. If the target dies while the spell is active, their soul is enslaved and will follow Mordekaiser as a ghost."
+83,Last Rites,Yorick deals bonus damage on his next attack and heals himself. If the target dies a grave will be dug.
+83,Dark Procession,Yorick summons a destructible wall at target location that will block enemy movement.
+83,Mourning Mist,"Yorick throws a globule of Black Mist that damages, slows and marks enemies."
+83,Eulogy of the Isles,Yorick summons the Maiden of the Mist that causes Yorick's attacks against the Maiden's target to deal bonus damage. The Maiden will also automatically raise Walkers from dead enemies.
+84,Mark of the Assassin,Akali spins her kama at a target enemy to deal Magic Damage and mark the target for 6 seconds. Akali's melee attacks against a marked target will trigger and consume the mark to cause additional damage and restore Energy.
+84,Twilight Shroud,"Akali teleports to a nearby location, leaving a cover of smoke at her previous location. While inside the shroud, Akali becomes Invisible and gains Movement Speed. Attacking or using abilities will briefly reveal her. Enemies inside the smoke have their Movement Speed reduced."
+84,Crescent Slash,"Akali flourishes her kamas, dealing damage based on her bonus Attack Damage and Ability Power. When Crescent Slash kills a unit, it has a shorter cooldown."
+84,Shadow Dance,"Akali moves through shadows to quickly strike through her target, dealing damage and consuming an Essence of Shadow charge. Akali recharges Essence of Shadow charges periodically, max 3 stacks."
+85,Thundering Shuriken,"Kennen throws a fast moving shuriken towards a location, causing damage and adding a Mark of the Storm to any opponent that it hits."
+85,Electrical Surge,"Kennen passively deals extra damage and adds a Mark of the Storm to his target every few attacks, and he can activate this ability to damage and add another Mark of the Storm to targets who are already marked."
+85,Lightning Rush,"Kennen morphs into a lightning form, enabling him to pass through units. Each enemy unit he touches takes damage and receives a Mark of the Storm."
+85,Slicing Maelstrom,Kennen summons a storm that strikes at nearby enemy champions for magical damage.
+86,Decisive Strike,"Garen gains a burst of movement speed, breaking free of all slows affecting him. His next attack strikes a vital area of his foe, dealing bonus damage and silencing them."
+86,Courage,Garen passively increases his armor and magic resist by killing enemies. He may also activate this ability to grant himself a shield that reduces incoming damage for a short time.
+86,Judgment,"Garen performs a dance of death with his sword, dealing damage around him for the duration."
+86,Demacian Justice,The enemy champion with the most recent kills is the Villain. Garen's attacks deal additional true damage to that champion.<br><br>Garen can call upon the might of Demacia to deal a finishing blow to an enemy champion that deals damage based upon how much health his target has missing. This damage is true damage against the Villain.
+89,Shield of Daybreak,"Leona uses her shield to perform her next basic attack, dealing bonus magic damage and stunning the target."
+89,Eclipse,"Leona raises her shield to gain Armor and Magic Resist. When the duration first ends, if there are nearby enemies, she will deal magic damage to them and prolong the duration of the effect."
+89,Zenith Blade,"Leona projects a solar image of her sword, dealing magic damage to all enemies in a line. When the image fades, the last enemy champion struck will be briefly immobilized and Leona will dash to them."
+89,Solar Flare,"Leona calls down a beam of solar energy, dealing damage to enemies in an area. Enemies in the center of the area are stunned, while enemies on the outside are slowed. Afterward, Leona's sword is charged with the power of the sun and deals bonus magic damage for a few attacks."
+90,Call of the Void,"Malzahar opens up two portals to the Void. After a short delay, they fire projectiles that deal Magic Damage and silence enemy champions."
+90,Void Swarm,"Malzahar summons a Voidling. The first time a summoned Voidling attacks a champion or monster, Malzahar summons a new Voidling."
+90,Malefic Visions,"Malzahar infects his target's mind with cruel visions of their demise, dealing damage over time. Using Malzahar's other spells on the target will refresh the visions.<br><br>If the target dies while afflicted by the visions, they pass on to a nearby enemy unit and Malzahar gains Mana. Malzahar's Voidlings are attracted to affected units."
+90,Nether Grasp,Malzahar channels the essence of the Void to suppress an enemy champion over a zone of damaging negative energy.
+91,Noxian Diplomacy,"Talon stabs the target unit. If they are within melee range, this attack deals critical damage. If they are outside melee range, Talon will leap at his target before stabbing them. Talon refunds some health and cooldown if this ability kills the target."
+91,Rake,"Talon sends out a volley of daggers that then return back to him, dealing physical damage every time it passes through an enemy. The returning blades deal bonus damage and slow units hit."
+91,Assassin's Path,"Talon vaults over any terrain or structure, up to a max distance. This ability has a low cooldown, but puts the used terrain on a long cooldown."
+91,Shadow Assault,"Talon disperses a ring of blades and becomes Invisible while gaining additional Movement Speed. When Talon emerges from Invisibility, the blades converge on his location. Each time the blades move, Shadow Assault deals physical damage to enemies hit by at least one blade.  "
+92,Broken Wings,Riven lashes out in a series of strikes. This ability can be reactivated three times in a short time frame with the third hit knocking back nearby enemies.
+92,Ki Burst,"Riven emits a Ki Burst, damaging and stunning nearby enemies."
+92,Valor,Riven steps forward a short distance and blocks incoming damage.
+92,Blade of the Exile,"Riven empowers her keepsake weapon with energy, and gains Attack Damage and Range. During this time, she also gains the ability to use Wind Slash, a powerful ranged attack, once. "
+96,Caustic Spittle,Kog'Maw launches a corrosive projectile which deals magic damage and corrodes the target's armor and magic resist for a short time. Kog'Maw also gains additional attack speed.
+96,Bio-Arcane Barrage,Kog'Maw's attacks gain range and deal a percent of the target's maximum health as magic damage.
+96,Void Ooze,Kog'Maw launches a peculiar ooze which damages all enemies it passes through and leaves a trail which slows enemies who stand on it.
+96,Living Artillery,"Kog'Maw fires an artillery shell at a great distance dealing magic damage (increased significantly on low health enemies) and revealing non-stealthed targets. Additionally, multiple Living Artilleries in a short period of time cause them to cost additional Mana."
+98,Twilight Assault,"Shen recalls his spirit blade to attack with it, dealing damage based on the target's max health. The attacks are greatly empowered if it collides with an enemy champion, and all collided enemies are slowed while running away from Shen."
+98,Spirit's Refuge,Attacks that would hit Shen or his allies near his spirit blade are blocked.
+98,Shadow Dash,"Shen dashes in a direction, taunting enemies in his path."
+98,Stand United,"Shen shields target allied champion from incoming damage, and soon after teleports to their location."
+99,Light Binding,Lux releases a sphere of light that binds and deals damage to up to two enemy units.
+99,Prismatic Barrier,"Lux throws her wand and bends the light around any friendly target it touches, protecting them from enemy damage."
+99,Lucent Singularity,"Fires an anomaly of twisted light to an area, which slows nearby enemies. Lux can detonate it to damage enemies in the area of effect."
+99,Final Spark,"After gathering energy, Lux fires a beam of light that deals damage to all targets in the area. In addition, triggers Lux's passive ability and refreshes the Illumination debuff duration."
+101,Arcanopulse,"Fires a long-range beam of energy, dealing magic damage to all targets hit."
+101,Eye of Destruction,"Calls down a barrage of arcane energy, slowing and dealing magic damage to all enemies in an area. Targets in the middle receive additional damage and a stronger slow."
+101,Shocking Orb,Deals magic damage to an enemy and stuns them.
+101,Rite of the Arcane,Xerath immobilizes himself and gains numerous long-range barrages.
+102,Twin Bite,"Shyvana strikes twice on her next attack. Basic attacks reduce the cooldown of Twin Bite by 0.5 seconds.<br><br><span class=""colorFF3300"">Dragon Form: </span>Twin Bite cleaves all units in front Shyvana. "
+102,Burnout,"Shyvana surrounds herself in fire, dealing magic damage per second to nearby enemies and moving faster for 3 seconds, part of this damage is applied again when Shyvana basic attacks an enemy with Burnout active. The Movement Speed reduces over the duration of the spell. Basic attacks extend the duration of Burnout. <br><br><span class=""colorFF3300"">Dragon Form: </span>Burnout grows in size."
+102,Flame Breath,"Shyvana unleashes a fireball that deals damage to all enemies it encounters and leaves cinders on the target, marking them for 5 seconds. Shyvana's basic attacks on marked targets deal a percentage of their maximum Health as damage on-hit.<br><br><span class=""colorFF3300"">Dragon Form: </span>Flame Breath explodes on impact or at target location, dealing bonus damage and scorching the earth for a short duration."
+102,Dragon's Descent,Shyvana transforms into a dragon and takes flight to a target location. Enemies along her path take damage and are knocked toward her target location.<br><br>Shyvana passively gains Fury per second and gains 2 Fury on basic attack.
+103,Orb of Deception,"Ahri sends out and pulls back her orb, dealing magic damage on the way out and true damage on the way back. Ahri gains movement speed that decays while her orb is traveling."
+103,Fox-Fire,"Ahri releases three fox-fires, that lock onto and attack nearby enemies."
+103,Charm,"Ahri blows a kiss that damages and charms an enemy it encounters, causing them to walk harmlessly towards her."
+103,Spirit Rush,"Ahri dashes forward and fires essence bolts, damaging 3 nearby enemies (prioritizes Champions). Spirit Rush can be cast up to three times before going on cooldown."
+104,End of the Line,"Graves fires an explosive shell that detonates after 2 seconds, or 0.2 seconds if it strikes terrain."
+104,Smoke Screen,Graves fires a smoke canister at the target area creating a cloud of smoke. Enemies inside the smoke cloud have reduced sight range and Movement Speed. 
+104,Quickdraw,"Graves dashes forward gaining an Armor and Magic Resist boost for several seconds. If Graves dashes towards an enemy champion, gain two stacks of True Grit instead. Hitting enemies with basic attacks lowers the cooldown of this skill and refreshes the resistance boost. "
+104,Collateral Damage,"Graves fires an explosive shell dealing heavy damage to the first champion it hits. After hitting a champion or reaching the end of its range, the shell explodes dealing damage in a cone. "
+105,Urchin Strike,"Fizz dashes through his target, dealing magic damage and applying on hit effects."
+105,Seastone Trident,"Fizz's attacks bleed his enemies, dealing magic damage over several seconds. Fizz can empower his next attack to deal bonus damage, increased by how long the bleed was active on his target."
+105,Playful / Trickster,"Fizz hops into the air, landing gracefully upon his spear and becoming untargetable. From this position, Fizz can either slam the ground or choose to jump again before smashing back down."
+105,Chum the Waters,"Fizz tosses a fish in a direction that attaches to any champion that touches it, slowing the target. After a short delay, a shark erupts from the ground, knocking up the target and knocking any nearby enemies aside. All enemies hit are dealt magic damage and slowed."
+106,Rolling Thunder,Volibear drops to all fours and runs faster. This bonus speed increases when chasing enemy champions. The first enemy he attacks is thrown backwards over Volibear.
+106,Frenzy,"Volibear's repeated attacks grant him additional Attack Speed. Once Volibear has repeatedly attacked three times, he can perform a vicious bite on his target which deals increased damage based on the target's missing Health."
+106,Majestic Roar,Volibear lets out a powerful roar that damages and slows enemies. Minions and monsters are feared as well.
+106,Thunder Claws,"Volibear erupts with chain lightning, damaging a number nearby enemies. The power of the storm causes Volibear's attacks to blast his targets with lightning that bounces to other nearby enemies."
+107,Savagery,Rengar slashes all enemies in an arc before piercing all enemies in a line. Casting this outside the max range moves Rengar a short distance in that direction.<br><br>Ferocity effect: deals increased damage.
+107,Battle Roar,"Rengar lets out a battle roar, damaging enemies and healing for some of the recent damage he has taken.<br><br>Ferocity effect: additionally breaks crowd control effects and grants immunity to them for a short duration."
+107,Bola Strike,"Rengar throws a bola, slowing the first target hit for a short duration.<br><br>Ferocity effect: roots the target."
+107,Thrill of the Hunt,"Rengar's predatory instincts take over, <span class=""colorcd90ee"">Camouflaging</span> him and revealing the nearest enemy champion in a large radius around him. During Thrill of the Hunt, Rengar gains Movement Speed and he can leap to the tracked enemy for a guaranteed critical strike, even without being in brush."
+110,Piercing Arrow,Varus readies and then fires a powerful shot that gains extra range and damage the longer he spends preparing to fire.
+110,Blighted Quiver,"Varus' basic attacks deal bonus magic damage and apply Blight. Varus' other abilities detonate Blight, dealing magic damage based on the target's maximum Health."
+110,Hail of Arrows,Varus fires a hail of arrows that deal physical damage and desecrate the ground. Desecrated ground slows enemies' Movement Speed and reduces their self healing and regeneration. 
+110,Chain of Corruption,"Varus flings out a damaging tendril of corruption that immobilizes the first enemy champion hit and then spreads towards nearby uninfected champions, immobilizing them too on contact. "
+111,Dredge Line,"Nautilus hurls his anchor forward. If it hits a champion, he drags both himself and the opponent close together. If it hits terrain, Nautilus instead pulls himself to the anchor and the cooldown of Dredge Line is reduced by half."
+111,Titan's Wrath,"Nautilus surrounds himself with dark energies, gaining a shield that blocks incoming damage. While the shield persists, his attacks apply a damage over time effect to enemies around his target."
+111,Riptide,"Nautilus slams the ground, causing the earth to explode around him in a set of three explosions. Each explosion damages and slows enemies."
+111,Depth Charge,"Nautilus fires a shockwave into the earth that chases an opponent. This shockwave rips up the earth above it, knocking enemies into the air. When it reaches the opponent, the shockwave erupts, knocking his target into the air and stunning them."
+112,Siphon Power,"Viktor blasts an enemy unit dealing magic damage, gaining a shield and empowering his next basic attack.<br><br>Augment: Viktor gains bonus Movement Speed after casting."
+112,Gravity Field,Viktor conjures a heavy gravitational field that slows enemies in its radius. Enemies who stay within the device for too long are stunned.<br><br>Augment: Enemies stunned by Gravity Field are dragged to the center.
+112,Death Ray,"Viktor uses his robotic arm to fire a chaos beam that cuts across the field in a line, dealing damage to all enemies in its path.<br><br>Augment: An explosion follows the Death Ray's wake, dealing magic damage."
+112,Chaos Storm,Viktor conjures a singularity on the field which deals magic damage and interrupts enemy channels. The singularity then periodically does magic damage to all nearby enemies. Viktor can redirect the singularity.<br><br>Augment: The Chaos Storm moves faster.
+113,Arctic Assault,"Charges forward, dealing magic damage and knocking enemies into the air. The charge stops after knocking an enemy champion into the air."
+113,Flail of the Northern Winds,"Sejuani's next basic attack deals bonus magic damage to the target and enemies near it. She then spins her flail, dealing magic damage to nearby enemies."
+113,Permafrost,Abilities and basic attacks apply Frost to enemies. Activating Permafrost damages and slows all nearby enemies with Frost.
+113,Glacial Prison,"Sejuani throws her True Ice bola in a line. If the bola hits an enemy champion, it shatters, stunning the target and nearby enemies. If the bola reaches its maximum range, it shatters and slows nearby enemies. "
+114,Lunge,"Fiora lunges in a direction and stabs a nearby enemy, dealing physical damage and applying on-hit effects."
+114,Riposte,"Fiora parries all incoming damage and disables for a short time, then stabs in a direction. This stab slows the first enemy champion hit, or stuns them if Fiora blocked an immobilizing effect with this ability."
+114,Bladework,"Fiora has increased attack speed for the next two attacks. The first attack slows the target, and the second attack will critically strike."
+114,Grand Challenge,"Fiora reveals all four Vitals on an enemy champion and gains movement speed while near them. If Fiora hits all 4 Vitals or if the target dies after she has hit at least one, Fiora and her allies in the area are healed over the next few seconds."
+115,Bouncing Bomb,Ziggs throws a bouncing bomb that deals magic damage.
+115,Satchel Charge,"Ziggs flings an explosive charge that detonates after 4 seconds, or when this ability is activated again. The explosion deals magic damage to enemies, knocking them away. Ziggs is also knocked away, but takes no damage. Ziggs can use the Satchel to hexplode vulnerable enemy turrets."
+115,Hexplosive Minefield,"Ziggs scatters proximity mines that detonate on enemy contact, dealing magic damage and slowing."
+115,Mega Inferno Bomb,"Ziggs deploys his ultimate creation, the Mega Inferno Bomb, hurling it an enormous distance. Enemies in the primary blast zone take more damage than those farther away. "
+117,Glitterlance,Pix and Lulu each fire a bolt of magical energy that heavily slows all enemies it hits. An enemy can only be damaged by one bolt.
+117,Whimsy,"If cast on an ally, grants them Attack Speed and Movement Speed for a short time. If cast on an enemy, turns them into an adorable critter that can't attack or cast spells."
+117,"Help, Pix!","If cast on an ally, commands Pix to jump to an ally and shield them. He then follows them and aids their attacks. If cast on an enemy, commands Pix to jump to an enemy and damage them. He then follows them and grants you vision of that enemy."
+117,Wild Growth,"Lulu enlarges an ally, knocking nearby enemies into the air and granting the ally a large amount of bonus health. For the next few seconds, that ally gains an aura that slows nearby enemies."
+119,Spinning Axe,"Draven's next attack will deal bonus physical damage. This axe will ricochet off the target high up into the air. If Draven catches it, he automatically readies another Spinning Axe. Draven can have two Spinning Axes at once."
+119,Blood Rush,Draven gains increased Movement Speed and Attack Speed. The Movement Speed bonus decreases rapidly over its duration. Catching a Spinning Axe will refresh the cooldown of Blood Rush.
+119,Stand Aside,"Draven throws his axes, dealing physical damage to targets hit and knocking them aside. Targets hit are slowed."
+119,Whirling Death,Draven hurls two massive axes to deal physical damage to each unit struck. Whirling Death slowly reverses direction and returns to Draven after striking an enemy champion. Draven may also activate this ability while the axes are in flight to cause it to return early. Deals less damage for each unit hit and resets when the axes reverse direction.
+120,Rampage,Hecarim cleaves nearby enemies dealing physical damage. 
+120,Spirit of Dread,Hecarim deals magic damage to nearby enemies for a short duration. Hecarim gains Health equal to a percentage of any damage those enemies suffer.
+120,Devastating Charge,Hecarim gains increasing Movement Speed and can move through units for a short duration. His next attack knocks the target back and deals additional physical damage based on the distance he has traveled since activating the ability. 
+120,Onslaught of Shadows,"Hecarim summons spectral riders and charges forward, dealing magic damage in a line. Hecarim creates a shockwave when he finishes his charge, causing nearby enemies to flee in terror."
+121,Taste Their Fear,"Deals physical damage to the target. Damage increased on <span class=""colorFFF673"">Isolated</span> targets. If he chooses to <span class=""color00DD33"">Evolve Reaper Claws</span>, this refunds a percent of it's cooldown against <span class=""colorFFF673"">Isolated</span> targets. Kha'Zix also gains increased range on his basic attacks and Taste Their Fear."
+121,Void Spike,"Kha'Zix fires exploding spikes that deal physical damage to enemies hit. Kha'Zix is healed if he is also within the explosion radius. If he chooses to <span class=""color00DD33"">Evolve Spike Racks</span>, Void Spike now fires three spikes in a cone, slow enemies hit, and reveals enemy champions hit for 2 seconds. <span class=""colorFFF673"">Isolated</span> targets are slowed for extra."
+121,Leap,"Kha'Zix leaps to an area, dealing physical damage upon landing. If he chooses to <span class=""color00DD33"">Evolve Wings</span>, Leap's range increases by 200 and the cooldown resets on champion kill or assist."
+121,Void Assault,"Each rank allows Kha'Zix to evolve one of his abilities, giving it a unique additional effect. When activated, Kha'Zix becomes <span class=""color91d7ee"">Invisible</span>, triggering Unseen Threat and increasing Movement Speed. If he chooses to <span class=""color00DD33"">Evolve Adaptive Cloaking</span>, while out of combat Kha'Zix also passively gains Void Assault upon entering a new brush."
+122,Decimate,Darius winds up and swings his axe in a wide circle. Enemies struck by the blade take more damage than those struck by the handle. Darius heals based on enemy champions hit by the blade.
+122,Crippling Strike,"Darius's next attack strikes an enemy's crucial artery. As they bleed out, their Movement Speed is slowed."
+122,Apprehend,"Darius hones his axe, passively causing his physical damage to ignore a percentage of his target's Armor. When activated, Darius sweeps up his enemies with his axe's hook and pulls them to him."
+122,Noxian Guillotine,"Darius leaps to an enemy champion and strikes a lethal blow, dealing true damage. This damage is increased for each stack of Hemorrhage on the target. If Noxian Guillotine is a killing blow, its cooldown is refreshed for a brief duration."
+126,To the Skies! / Shock Blast,Hammer Stance: Leaps to an enemy dealing physical damage and slowing enemies.<br><br>Cannon Stance: Fires an orb of electricity that detonates upon hitting an enemy (or reaching the end of its path) dealing physical damage to all enemies hit.
+126,Lightning Field / Hyper Charge,"Hammer Stance: Passive: Restores Mana per strike. Active: Creates a field of lightning damaging nearby enemies for several seconds.<br><br>Cannon Stance: Gains a burst of energy, increasing Attack Speed to maximum for several attacks."
+126,Thundering Blow / Acceleration Gate,"Hammer Stance: Deals magic damage to an enemy and knocks them back a short distance.<br><br>Cannon Stance: Deploys an Acceleration Gate increasing the Movement Speed of all allied champions who pass through it. If Shock Blast is fired through the gate the missile speed, range, and damage will increase."
+126,Mercury Cannon / Mercury Hammer,Hammer Stance: Transforms the Mercury Hammer into the Mercury Cannon gaining new abilities and increased range. The first attack in this form reduces the target's Armor and Magic Resist.<br><br>Cannon Stance: Transforms the Mercury Cannon into the Mercury Hammer gaining new abilities and increasing Armor and Magic Resist. The first attack in this form deals additional magic damage.
+127,Ice Shard,"Throws a spear of ice that shatters when it hits an enemy, dealing magic damage and slowing Movement Speed. Shards pass through the target, dealing the same damage to other enemies hit."
+127,Ring of Frost,"Freezes nearby enemies in ice, dealing magic damage and rooting them. "
+127,Glacial Path,Lissandra creates an ice claw that deals magic damage. Reactivating this ability transports Lissandra to the claw's current location.
+127,Frozen Tomb,"If cast on an enemy champion, the target is frozen solid, stunning it. If cast on Lissandra, she encases herself in dark ice, healing herself while becoming untargetable and invulnerable. Dark ice then emanates from the target dealing magic damage to enemies and slowing Movement Speed."
+131,Crescent Strike,"Diana swings her blade to unleash a bolt of lunar energy that deals damage in an arc before exploding. Afflicts enemies struck with the Moonlight debuff, revealing them if they are not stealthed. "
+131,Pale Cascade,"Diana creates three orbiting spheres that detonate on contact with enemies to deal damage in an area. She also gains a temporary shield that absorbs damage. If her third sphere detonates, the shield gains additional strength."
+131,Moonfall,Diana draws in and slows all nearby enemies.
+131,Lunar Rush,Diana dashes to an enemy and deals magic damage. Lunar Rush has no cooldown when used to teleport to a target afflicted with Moonlight.
+133,Blinding Assault,Quinn calls Valor to mark an enemy and hinder its vision before damaging all enemies in the immediate area.
+133,Heightened Senses,"Passively grants Quinn Attack Speed and Movement Speed after she attacks a <span class=""colorFFF673"">Vulnerable</span> target. Activate to have Valor reveal a large area nearby."
+133,Vault,"Quinn dashes to an enemy, dealing physical damage and slowing the target's Movement Speed. Upon reaching the target, she leaps off the target, briefly interrupting it, and lands near her maximum Attack Range away from the target."
+133,Behind Enemy Lines,Quinn and Valor team up to fly around at great speed.
+134,Dark Sphere,Syndra conjures a Dark Sphere dealing magic damage. The sphere remains and can be manipulated by her other powers.
+134,Force of Will,Syndra picks up and throws a Dark Sphere or enemy minion dealing magic damage and slowing the Movement Speed of enemies. 
+134,Scatter the Weak,Syndra knocks enemies and Dark Spheres back dealing magic damage. Enemies hit by Dark Spheres become stunned.
+134,Unleashed Power,Syndra bombards an enemy Champion with all of her Dark Spheres.
+136,Starsurge,"Aurelion Sol creates an expanding disk, which explodes to stun and damage enemies when it moves too far away from him."
+136,Celestial Expansion,"Aurelion Sol pushes his stars farther out, magnifying their damage."
+136,Comet of Legend,"Aurelion Sol gains speed while moving in one continuous direction, and can take off flying for a long distance."
+136,Voice of Light,"Aurelion Sol projects a blast of pure starfire, damaging and slowing all enemies caught in it and knocking nearby enemies back to a safer distance."
+143,Deadly Spines,"Thick vines spread through the ground and explode into spines, dealing magic damage to enemies within the area. If cast near a seed, Deadly Spines grows a Thorn Spitter plant, which fires at enemies from afar."
+143,Rampant Growth,"Zyra plants a seed, lasting up to 60 seconds. Deadly Spines and Grasping Roots cast near seeds will turn them into plants who fight for Zyra. Additionally, Rampant Growth passively grants her plants improved maximum Health."
+143,Grasping Roots,"Zyra sends forth vines through the ground to ensnare her target, dealing damage and rooting enemies they come across. If cast near a seed, Grasping Roots grows a Vine Lasher, whose short range attacks reduce enemy Movement Speed."
+143,Stranglethorns,"Zyra summons a twisted thicket at her target location, dealing damage to enemies as it expands and knocking them airborne as it contracts."
+150,Boomerang Throw / Boulder Toss,"Gnar throws a boomerang that damages and slows enemies it hits before returning to him. If he catches the boomerang its cooldown is reduced.<br><br>Mega Gnar instead throws a boulder that stops on the first unit hit, damaging and slowing everything nearby. It can then be picked up to reduce the cooldown."
+150,Hyper / Wallop,"Gnar's attacks and spells hype him up, dealing bonus damage and granting him Movement Speed.<br><br>Mega Gnar is too enraged to be hyper and instead can rear up on his hind legs and smash down on the area in front of him, stunning enemies in an area."
+150,Hop / Crunch,"Gnar leaps to a location and bounces off the head of any unit he lands on, traveling further.<br><br>Mega Gnar is too large to bounce and instead lands with earth-shattering force, dealing damage in an area around him."
+150,GNAR!,"Mega Gnar throws everything around him in a chosen direction, dealing damage and slowing them.  Any enemy that hits a wall is stunned and takes bonus damage."
+154,Stretching Strike,"Zac extends his arms, slowing and dealing damage to nearby enemies."
+154,Unstable Matter,"Zac's body erupts, damaging nearby enemies."
+154,Elastic Slingshot,"Zac attaches his arms to the ground and stretches back, launching himself forward."
+154,Let's Bounce!,"Zac launches into the air, gaining Movement Speed, and slams down three times, each time damaging, slowing and knocking up nearby enemies."
+157,Steel Tempest,"A skillshot basic attack. After two successful Steel Tempests, the next fires a tornado that knocks enemies Airborne."
+157,Wind Wall,Creates a moving wall that blocks enemy projectiles.
+157,Sweeping Blade,"Dashes through a unit, dealing escalating Magic Damage with each cast."
+157,Last Breath,Moves to a unit and strikes them repeatedly for heavy damage. Can only be cast on Airborne targets.
+161,Plasma Fission,Vel'Koz shoots a bolt of plasma that splits in two on reactivation or upon hitting an enemy. The bolt slows and damages on hit.
+161,Void Rift,"Vel'Koz opens a rift to the void that deals an initial burst of damage, then explodes for a second burst of damage after a delay."
+161,Tectonic Disruption,"Vel'Koz causes an area to explode, knocking up enemies, and knocking close enemies slightly away."
+161,Life Form Disintegration Ray,Vel'Koz unleashes a channelled beam that follows the cursor for 2.5 seconds that deals magic damage. Organic Deconstruction Researches enemy champions causing them to take true damage instead.
+163,Threaded Volley,"Taliyah throws a volley of missiles in a target direction, moving freely as she does. This works the ground below her. If Taliyah casts Threaded Volley on worked ground, she only throws one missile."
+163,Seismic Shove,Taliyah causes an area of ground to erupt and throws enemies within in a direction of her choosing.
+163,Unraveled Earth,Taliyah creates a slowing minefield that explodes if enemies dash through it or are pushed/pulled through it.
+163,Weaver's Wall,Stone Weaver creates a very long wall and then surfs it.
+201,Winter's Bite,"Braum propels freezing ice from his shield, slowing and dealing magic damage.<br><br>Applies a stack of <span class=""colorFFF673"">Concussive Blows</span>."
+201,Stand Behind Me,"Braum leaps to a target allied champion or minion. On arrival, Braum and the ally gain Armor and Magic Resist for a few seconds."
+201,Unbreakable,"Braum raises his shield in a direction for several seconds, intercepting all projectiles causing them to hit him and be destroyed. He negates the damage of the first attack completely and reduces the damage of all subsequent attacks from this direction."
+201,Glacial Fissure,"Braum slams the ground, knocking up enemies nearby and in a line in front of him. A fissure is left along the line that slows enemies."
+202,Dancing Grenade,Jhin launches a magical cartridge at an enemy. It can hit up to four targets and gains damage each time it kills.
+202,Deadly Flourish,"Jhin brandishes his cane, firing a single shot with incredible range. It pierces through minions and monsters, but stops on the first champion hit. If the target was recently struck by Jhin's allies, lotus traps, or basic attacks, they are rooted."
+202,Captive Audience,"Jhin places an invisible lotus trap that blooms when walked over. It slows nearby enemies before dealing damage with an explosion of serrated petals. <br><br><span class=""colorFFFFFF"">Beauty in Death -</span> When Jhin kills an enemy champion, a lotus trap will bloom near their corpse."
+202,Curtain Call,"Jhin channels, transforming Whisper into a shoulder-mounted mega-cannon. It is able to fire 4 super shots at extreme range that pierce through minions and monsters, but stop on the first champion impacted. Whisper cripples enemies hit, which slows them and deals execute damage. The 4th shot is perfectly crafted, epically powerful, and guaranteed to critically strike."
+203,Dance of Arrows,Kindred tumbles and shoots up to three arrows at nearby targets.
+203,Wolf's Frenzy,Wolf enrages and attacks enemies around him.
+203,Mounting Dread,"Lamb fires a carefully placed shot, slowing the target. If Lamb attacks the target two more times, her third attack instead directs Wolf to pounce on the enemy, savaging them for massive damage."
+203,Lamb's Respite,"Lamb grants all living things inside a zone a respite from death. Until the effect ends, nothing can die. At the end, units are healed."
+222,Switcheroo!,"Jinx modifies her basic attacks by swapping between Pow-Pow, her minigun and Fishbones, her rocket launcher. Attacks with Pow-Pow grant Attack Speed, while attacks with Fishbones deal area of effect damage, gain increased range, and drain Mana."
+222,Zap!,"Jinx uses Zapper, her shock pistol, to fire a blast that deals damage to the first enemy hit, slowing and revealing it."
+222,Flame Chompers!,"Jinx throws out a line of snare grenades that explode after 5 seconds, lighting enemies on fire. Flame Chompers will bite enemy champions who walk over them, rooting them in place."
+222,Super Mega Death Rocket!,"Jinx fires a super rocket across the map that gains damage as it travels. The rocket will explode upon colliding with an enemy champion, dealing damage to it and surrounding enemies based on their missing Health. "
+223,Tongue Lash,"Tahm Kench lashes out with his tongue, damaging and slowing the first unit hit. This ability gains a stun after three stacks of An Acquired Taste."
+223,Devour,"Tahm Kench devours a target, dealing a percentage of their maximum health as magic damage. He can spit devoured minions and monsters out as a skillshot that deals magic damage in an area upon impact."
+223,Thick Skin,"Tahm Kench turns incoming damage into gray health. As gray health decays, Tahm Kench is healed for a percentage of the gray health amount. When activated, this ability turns all gray health into a shield."
+223,Abyssal Voyage,"Tahm Kench teleports across the map, and he may bring one ally champion with him."
+236,Piercing Light,Lucian shoots a bolt of piercing light through a target.
+236,Ardent Blaze,"Lucian shoots a missile that explodes in a star shape, marking enemies. Lucian gains Movement Speed for attacking marked enemies."
+236,Relentless Pursuit,Lucian quickly dashes a short distance. Lightslinger attacks reduce Relentless Pursuit's cooldown.
+236,The Culling,Lucian unleashes a torrent of shots from his weapons.
+238,Razor Shuriken,"Zed and his shadow both throw their spinning blades forward, dealing damage to any targets they pass through."
+238,Living Shadow,"Zed's shadow dashes forward, remaining in place for 4 seconds, and mimicking his spell casts. Zed can reactivate to swap places with the shadow. Zed's Attack Damage is passively increased."
+238,Shadow Slash,"Zed and his shadow spin their blades, creating a burst of shadow energy.  The shadow's spin slows."
+238,Death Mark,"Zed leaves a shadow behind and dashes to target Champion, marking them for death. After 3 seconds, the mark will trigger, dealing a percentage of the damage Zed has dealt while the mark was active. If the Champion dies under Death Mark, Zed can gain a portion of their attack damage."
+240,Bear Trap on a Rope,"Kled throws a bear trap that damages and hooks an enemy champion. If shackled for a short duration, the target takes additional physical damage and is yanked toward Kled.<br><br>When dismounted, this ability is replaced by Pocket Pistol, a ranged gun blast that knocks back Kled and restores courage."
+240,Violent Tendencies,Kled gains massive attack speed for four attacks. The fourth attack deals more damage.
+240,Jousting,"Kled dashes, dealing physical damage and gaining a short burst of speed. Kled can then reactivate this ability to dash back through his initial target, dealing the same damage."
+240,Chaaaaaaaarge!!!,"Kled and Skaarl charge to a location, leaving a speed-granting trail behind them and gaining a shield. Skaarl locks onto and rams the first enemy champion encountered."
+245,Timewinder,"Ekko throws a temporal grenade that expands into a time-distortion field upon hitting an enemy champion, slowing and damaging anyone caught inside. After a delay, the grenade rewinds back to Ekko, dealing damage on its return."
+245,Parallel Convergence,"Ekko splits the timeline, creating an anomaly after a few seconds that slows enemies caught inside. If Ekko enters the anomaly, he gains shielding and triggers a detonation, stunning enemies by suspending them in time."
+245,Phase Dive,"Ekko rolls evasively while charging up his Z-Drive. His next attack deals bonus damage and warps reality, teleporting him to his target."
+245,Chronobreak,"Ekko shatters his timeline, becoming untargetable and rewinding to a more favorable point in time. He returns to whenever he was a few seconds ago, and heals for a percentage of the damage received in that duration. Enemies near his arrival zone take massive damage."
+254,Vault Breaker,"Vi charges her gauntlets and unleashes a vault shattering punch, carrying her forward. Enemies she hits are knocked back and receive a stack of Denting Blows."
+254,Denting Blows,"Vi's punches break her opponent's Armor, dealing bonus damage and granting her Attack Speed."
+254,Excessive Force,"Vi's next attack blasts through her target, dealing damage to enemies behind it."
+254,Assault and Battery,"Vi runs down an enemy, knocking aside anyone in the way. When she reaches her target she knocks it into the air, jumps after it, and slams it back into the ground."
+266,Dark Flight,"Aatrox takes flight and slams down at a targeted location, dealing damage and knocking up enemies at the center of impact."
+266,Blood Thirst / Blood Price,While toggled on Aatrox deals bonus damage every third subsequent attack at the expense of his own Health. While toggled off Aatrox restores Health every third subsequent attack.
+266,Blades of Torment,"Aatrox unleashes the power of his blade, dealing damage to enemies hit and slowing them."
+266,Massacre,"Aatrox draws in the blood of his foes, damaging all nearby enemy champions around him and gaining increased Attack Speed and bonus Attack Range for a short duration."
+267,Aqua Prison,"Sends a bubble to a target area, dealing damage and stunning all enemies on impact."
+267,Ebb and Flow,"Unleashes a stream of water that bounces back and forth between allied and enemy champions, healing allies and damaging enemies."
+267,Tidecaller's Blessing,Empowers an allied champion for a short duration. The ally's basic attacks deal bonus magic damage and slow the target.
+267,Tidal Wave,"Summons a massive Tidal Wave that knocks up, slows, and damages enemies. Allies hit gain double the effect of Surging Tides."
+268,Conquering Sands,Azir sends all Sand Soldiers towards a location. Sand Soldiers deal magic damage to enemies they pass through and apply a slow for 1 second.
+268,Arise!,"Azir summons a Sand Soldier to attack nearby targets for him, replacing his basic attack against targets within the soldier's range. Their attacks deal magic damage to enemies in a line. Arise! also passively grants attack speed to Azir and his Sand Soldiers."
+268,Shifting Sands,"Azir dashes to one of his Sand Soldiers, damaging enemies. If he hits an enemy champion, he gains a shield."
+268,Emperor's Divide,"Azir summons a wall of soldiers which charge forward, knocking back and damaging enemies."
+412,Death Sentence,Thresh binds an enemy in chains and pulls them toward him. Activating this ability a second time pulls Thresh to the enemy.
+412,Dark Passage,Thresh throws out a lantern that shields nearby allied Champions from damage. Allies can click the lantern to dash to Thresh.
+412,Flay,"Thresh's attacks wind up, dealing more damage the longer he waits between attacks. When activated, Thresh sweeps his chain, knocking all enemies hit in the direction of the blow."
+412,The Box,A prison of walls that slow and deal damage if broken.
+420,Tentacle Smash,"Increases the damage dealt by Tentacles. When activated, Illaoi smashes down a Tentacle that deals physical damage."
+420,Harsh Lesson,"Illaoi leaps to her target, dealing physical damage and causing nearby Tentacles to also swing at the target."
+420,Test of Spirit,"Illaoi rips the spirit from a foe's body, forcing it to stand before her. Spirits echo a percentage of the damage they take to the original target. If killed, or if the target gets too far from the spirit, the target will become a <span class=""color669900"">Vessel</span> and begin spawning Tentacles."
+420,Leap of Faith,"Illaoi smashes her idol into the ground, dealing physical damage to nearby enemies. A Tentacle spawns for each enemy champion hit."
+421,Queen's Wrath / Prey Seeker,"Rek'Sai's next 3 basic attacks deal bonus Physical Damage to nearby enemies.<br><br>While Burrowed, Rek'Sai launches a burst of void-charged earth that deals Magic Damage and reveals enemies hit."
+421,Burrow / Un-burrow,"Rek'Sai burrows into the ground, gaining new abilities and increased Movement Speed. Her vision range is reduced and she cannot use basic attacks.<br><br>While Burrowed, Rek'Sai may cast Un-burrow to knock up and damage nearby enemies."
+421,Furious Bite / Tunnel,"Rek'Sai bites her target, dealing increased damage based on her Fury. Deals True Damage at max Fury.<br><br>While Burrowed, Rek'Sai creates a re-usable, long lasting tunnel. Enemies can destroy it by standing on top of either entrance."
+421,Void Rush,Rek'Sai travels at incredible speed to a targeted Tunnel Entrance.
+427,Rootcaller,"Ivern conjures a vine, dealing damage and rooting enemy targets hit. Ivern's allies can dash to the rooted target."
+427,Brushmaker,"In brush, Ivern's attacks are ranged and deal bonus magic damage. Ivern can activate this ability to create a patch of brush."
+427,Triggerseed,Ivern places a shield on an ally which explodes after a short duration slowing and damaging enemies.
+427,Daisy!,Ivern summons his Sentinel friend Daisy to fight with him. Daisy will send out a shockwave if she attacks the same champion three times in a row.
+429,Pierce,Throw a fast moving spear that passes through enemies it kills.
+429,Sentinel,"Passively gain Attack Speed when near her Oathsworn ally, and deal bonus damage when striking the same target. <br><br>Activate to send a soul to scout out the path, revealing the area in front of it."
+429,Rend,"Attacks impale their targets with spears. Activate to rip the spears out, slowing and dealing escalating damage."
+429,Fate's Call,"Kalista teleports the Oathsworn ally to herself. They gain the ability to dash toward a position, knocking enemy champions back."
+432,Cosmic Binding,"Bard fires a missile which will slow the first enemy struck, and continue onward. If it strikes a wall, it will stun the initial target; if it strikes another enemy, it will stun them both."
+432,Caretaker's Shrine,"Reveals a healing shrine which powers up over a short time, disappearing after healing the first ally that touches it."
+432,Magical Journey,Bard opens a portal in nearby terrain. Allies and enemies alike can take a one-way trip through that terrain by moving into the portal.
+432,Tempered Fate,"Bard sends spirit energy arcing to a location, putting all champions, minions, monsters, and turrets hit into stasis for a brief time."
