@@ -5,7 +5,8 @@ URL = {
 	"summoner_games": u"v{version}/game/by-summoner/{id}/recent",
 	"all_champions": u"v{version}/champion",
 	"match": u"v{version}/match/{matchid}",
-	"champion_by_id": u"https://global.api.pvp.net/api/lol/static-data/na/v1.2/champion/{id}"
+	"champion_by_id": u"https://global.api.pvp.net/api/lol/static-data/na/v1.2/champion/{id}",
+	"items": u"https://global.api.pvp.net/api/lol/static-data/na/v1.2/item"
 }
 
 VERSIONS = {

@@ -4,8 +4,8 @@ import time
 
 class RiotAPI(object):
 	def __init__(self, api_key):
-		self.api_key = api_key
-		#self.api_key = Consts.API_KEYS[0]
+		#self.api_key = api_key
+		self.api_key = Consts.API_KEYS[0]
 		self.key_index = 0
 
 	def change_key(self):
@@ -75,3 +75,7 @@ class RiotAPI(object):
 			version=Consts.VERSIONS['match'],
 			matchid=id)
 		return self._request(api_url)
+
+	def get_items(self, params={}):
+		url = Consts.URL['items']
+		return self._request_url(url, params)
